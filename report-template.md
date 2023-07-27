@@ -34,11 +34,11 @@ I would try to train neural networks with I had time and GPUs available, since i
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
-![model_train_score.png](img/model_train_score.png)
+![model_train_score.png](model_train_score.png)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
-![model_test_score.png](img/model_test_score.png)
+![model_test_score.png](model_test_score.png)
 
 ## Summary
 In this project I could learn more about how to use AutoGluon and we can see that it can perform very well if we do some preprocessing to fix data types and some feature engineering, we can also see here that AutoGluon performs very well without necessity of hyperparameter tuning.
