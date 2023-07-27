@@ -10,4 +10,4 @@ Bike sharing systems are a means of renting bicycles where the process of obtain
 The dataset for this competition can be found on the Kaggle competition page.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License.
